@@ -79,3 +79,73 @@ background: rgba(5, 151, 160, 0.15);
 .pink{
     text-decoration: underline;
 }
+
+/* logo part 
+ */
+
+ .logo-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 100px 180px ;
+    border-radius: 5px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 50px;
+
+
+ }
+
+ .hot-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    gap: 20px;
+    padding: 30px;
+ }
+
+ /* insta part  */
+ .insta-img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+   
+ }
+ .insta-img-resize{
+    width: 250px;
+    height: 250px;
+    border-radius: 5px;
+ }
+ .insta-des{
+    margin-top: 120px;
+    text-align: center;
+    margin-bottom: 80px;
+ }
+
+ /* get part  */
+ .btn-subs{
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    
+ }
+ .get-container{
+    text-align: center;
+    background-image: url('Rectangle\ 9.png');
+    padding: 50px;
+    margin: 100px 210px;
+ }
+
+
+ /* footer part  */
+
+footer{
+    text-align: center;
+    background: #111010;
+    color: #FFF;
+    padding: 50px;
+}
