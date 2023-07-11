@@ -110,7 +110,7 @@ background: rgba(5, 151, 160, 0.15);
     text-align: center;
     border-radius: 8px;
     background: rgba(229, 84, 115, 0.05);
-    gap: 20px;
+    gap: 100px;
     padding: 30px;
  }
 
@@ -159,7 +159,7 @@ background: rgba(5, 151, 160, 0.15);
     margin-bottom: 100px;
     margin-top:200px ;
     height: 50vh;
-    gap: 80px;
+    gap: 70px;
     align-items: center;
      
  }
@@ -181,4 +181,5 @@ footer{
 
 .word-color{
     color: #E55473;
+
 }
