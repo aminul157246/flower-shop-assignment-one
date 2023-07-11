@@ -161,6 +161,7 @@ background: rgba(5, 151, 160, 0.15);
     height: 50vh;
     gap: 70px;
     align-items: center;
+    justify-content: center;
      
  }
  .extra-img{
