@@ -148,6 +148,10 @@ background: rgba(5, 151, 160, 0.15);
  }
 
 
+ .for-textarea{
+    padding: 10px;
+ }
+
 
 
  /* extra-part  */
@@ -155,19 +159,21 @@ background: rgba(5, 151, 160, 0.15);
  .extra-part-container{
     display: flex;
     background: rgba(229, 84, 115, 0.05);
-    padding: 100px;
+    
+    padding: 0px;
     margin-bottom: 100px;
     margin-top:200px ;
     height: 50vh;
-    gap: 70px;
+    gap: 150px;
     align-items: center;
     justify-content: center;
+    width: 100%;
      
  }
- .extra-img{
-    width: 250px;
-    height: 180px;
-    padding-bottom: 140px;
+ .extra-img-resize{
+    width: 400px;
+    height: 300px;
+
  }
 
  /* footer part  */
